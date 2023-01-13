@@ -1,0 +1,1 @@
+This repository, "Quantum", can be an entry point for snippets of code, perhpas in any language, to demonstrate elements of programming for quantum circuits. The popular algorithms, e.g. Shor's algorithm can be one such single file program to store here.
